@@ -51,7 +51,7 @@ _After years of seeing how software gets localized and used globally, I'm now le
 |Area|Learning Method|Goal|
 |---|---|---|
 |Core Java|Building pet projects|Solidify OOP concepts|
-|Spring Boot|Bootcamp courses + documentation|Build production-ready APIs|
+|Spring Boot|Bootcamp/Online courses + documentation|Build production-ready APIs|
 |Best Practices|Code reviews + refactoring|Develop good habits early|
 
 ## Beyond Code

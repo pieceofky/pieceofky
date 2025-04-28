@@ -37,13 +37,6 @@ public class MyJourney {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**How My Past Informs My Code**
-
-graph TB
-    A[Life Experience] --> B[Precision of Localization]
-    A --> C[Diplomacy of Stakeholder Management]
-    A --> D[Methodical Learning Approach]
-    B & C & D --> E[Clean, Maintainable Code]
 
 ## Professional Perspective
 

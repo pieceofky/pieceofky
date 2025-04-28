@@ -40,7 +40,7 @@ public class MyJourney {
 
 ## Professional Perspective
 
-_"After years of seeing how software gets localized and used globally, I'm now learning how it gets built. My strengths:_
+_After years of seeing how software gets localized and used globally, I'm now learning how it gets built. My strengths:_
 
 - **Attention to Detail** - Honed through localization and research work
 - **Professional Maturity** - Comfort being a beginner again
